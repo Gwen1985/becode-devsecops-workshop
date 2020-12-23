@@ -81,7 +81,7 @@
       <workItem from="1602013954694" duration="885000" />
       <workItem from="1602060784413" duration="83000" />
       <workItem from="1608728889591" duration="402000" />
-      <workItem from="1608731697807" duration="248000" />
+      <workItem from="1608731697807" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1600162378541</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608729160162</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="first and final commit">
+      <created>1608732012385</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608732012385</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +219,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="a" />
     <MESSAGE value="index.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.php" />
+    <MESSAGE value="first and final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first and final commit" />
   </component>
 </project>
